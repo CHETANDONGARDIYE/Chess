@@ -1,11 +1,10 @@
+
 {
-  "engines" : {
+    "engines" : {
     "node" : "10.5.0"
-  }
-}
+     }
 
-
-{
+  
   "name": "backend-project",
   "version": "1.0.0",
   "main": "app.js",
